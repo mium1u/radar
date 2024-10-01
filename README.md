@@ -3,6 +3,7 @@
 
 Виконано 01.10.24
 
+
 Screenshot_1 та 2: Запустим эмулятор GPS
 
 Screenshot_3: скрін з Docker
