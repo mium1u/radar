@@ -21,3 +21,5 @@ Screenshot_9: зміст файлу app.js
 Screenshot_10: зміст файлу server.js
 
 Screenshot_11: результат виконання 
+
+![Screenshot_11](https://github.com/user-attachments/assets/b9a0baa1-84f1-426f-bb6d-9a6dd902a89e)
